@@ -13,7 +13,7 @@
 **Описание процесса тестирования**
 
 В процессе тестирования использовались следующие артефакты:
-* * [Задача №2 - Precision](https://github.com/netology-code/javaqa-homeworks/tree/master/programming#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1---money-transfer)
+* [Задача №2 - Precision](https://github.com/netology-code/javaqa-homeworks/tree/master/programming#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1---money-transfer)
 
 
 В качестве тестовых данных использовался предоставленный код из ДЗ к занятию «1.2. Программирование на Java: переменные, операторы, работа с отладчиком»:
